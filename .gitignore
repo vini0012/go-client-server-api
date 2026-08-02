@@ -6,3 +6,5 @@ cotacoes.db
 .DS_Store
 coverage.out
 bin/
+.idea/
+*.iml
